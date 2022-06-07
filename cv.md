@@ -32,4 +32,6 @@ function pow(x, n) {
 3. JavaScript
 4. GitHub
 ## Language:
+- Russian
+- Belarusian
 - English (A2-A1)
