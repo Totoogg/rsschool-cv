@@ -24,3 +24,10 @@ function pow(x, n) {
     return result;
 }
 ```
+## Work experience:
+*Missing*
+## Education and courses:
+1. HTML
+2. CSS
+3. JavaScript
+4. GitHub
