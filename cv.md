@@ -31,3 +31,5 @@ function pow(x, n) {
 2. CSS
 3. JavaScript
 4. GitHub
+## Language:
+- English (A2-A1)
